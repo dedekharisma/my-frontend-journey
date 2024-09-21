@@ -6,7 +6,7 @@ Welcome to my personal learning repository! This space is dedicated to documenti
 
 - <a href="https://github.com/dedekharisma/html-basic">**HTML Basic**</a>: The foundation of any web page. I'm exploring how to structure content, use semantic elements, and build the skeleton of a web page.
 - <a href=https://github.com/dedekharisma/html-form>**HTML form**</a>: One of the most essential parts of any interactive website.
-- **CSS**: Styling is where the magic happens! I'm learning how to bring life to my web pages with colors, layouts, responsiveness, and some basic animations.
+- <a href=https://github.com/dedekharisma/css-basic>**CSS**</a>: Styling is where the magic happens! I'm learning how to bring life to my web pages with colors, layouts, responsiveness, and some basic animations.
 - **JavaScript**: Adding interactivity to my projects. This includes understanding the DOM, handling events, and making web pages dynamic and engaging.
 
 ## Repository Structure
